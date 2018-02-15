@@ -37,7 +37,7 @@ download the target theme, for this tutorial let's use the [massively](https://g
 
 ```
 $ yarn global add gatsby-jay
-$ cd DIRECTOY_NAME
+$ cd DIRECTORY_NAME
 $ jay unmount my-old-theme
 $ jay add massively
 $ jay mount massively
